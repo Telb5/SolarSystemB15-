@@ -6,7 +6,7 @@ public class Main {
         Solar solar = new Solar();
         solar.moon = "2";
         solar.planet = "2";
-        solar.sun = 233863;
+        solar.sun = "233863";
 
     }
 }
